@@ -1,0 +1,9 @@
+
+                  --- Kinder ---
+                  
+Este proyecto trata de dar un ejemplo sobre como usar Grails 2.0.3 para crear una aplicación web
+que hace uso para el front de jQuery.
+
+Cualquier duda o comentario se puede hacer vía el sitio:
+
+micro-howto.blogspot.mx
