@@ -6,4 +6,4 @@ que hace uso para el front de jQuery.
 
 Cualquier duda o comentario se puede hacer vía el sitio:
 
-micro-howto.blogspot.mx
+> micro-howto.blogspot.mx
